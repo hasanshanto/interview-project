@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interview Project</string>
+
+    <string-array name="Applying_in">
+        <item> Mobile </item>
+        <item> Backend </item>
+    </string-array>
+</resources>
